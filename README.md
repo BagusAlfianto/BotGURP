@@ -1,0 +1,2 @@
+# BotGURP
+Bot Discord Server
